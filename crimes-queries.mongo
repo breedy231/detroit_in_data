@@ -1,0 +1,7 @@
+db.crimes.aggregate([{"$match": {
+    "category": "MISCELLANEOUS",
+    "offensedescription": $regex: 'VEHICLE'
+}}, {"$count": 
+    "num_recs"
+}])
+

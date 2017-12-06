@@ -1,0 +1,10 @@
+Jupyter
+scikit-learn
+Pprint
+Pandas
+Matplotlib
+Numpy
+Datetime
+scikit-plot
+Sodapy
+Pymongo
